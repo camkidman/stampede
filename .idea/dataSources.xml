@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1010979293">
+    <data-source source="LOCAL" name="Rails stampede: development" uuid="71750438-5663-445b-8393-ce195837a614">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:stampede</jdbc-url>
+      <user-name>herd</user-name>
+      <user-password>dfcbdfd9dfcedfccdfdbdfdddfcfdfd8dfebdff9dfeedfecdffbdffddfefdff8</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails stampede: test" uuid="ed0b1ca0-a030-4f38-b000-f7ab0958375c">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:stampede_test</jdbc-url>
+      <user-name>herd</user-name>
+      <user-password>dfcbdfd9dfcedfccdfdbdfdddfcfdfd8dfebdff9dfeedfecdffbdffddfefdff8</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails stampede: production" uuid="545fd436-6d9e-4f1c-9d74-e736735f5d5e">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:stampede_production</jdbc-url>
+      <user-name>stampede</user-name>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+

@@ -17,10 +17,10 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: stampede_development
+  database: stampede
   pool: 5
-  username: stampede
-  password:
+  username: herd
+  password: asdfqwerASDFQWER
 
   # Connect on a TCP socket. Omitted by default since the client uses a
   # domain socket that doesn't need configuration. Windows does not have
@@ -48,8 +48,8 @@ test:
   encoding: unicode
   database: stampede_test
   pool: 5
-  username: stampede
-  password:
+  username: herd
+  password: asdfqwerASDFQWER
 
 production:
   adapter: postgresql
