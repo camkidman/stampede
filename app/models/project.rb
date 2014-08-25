@@ -9,4 +9,6 @@ class Project < ActiveRecord::Base
     state :approved
   end
 
+
+
 end

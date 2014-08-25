@@ -46,3 +46,6 @@ end
 gem 'omniauth-facebook'
 
 gem 'workflow'
+gem 'haml-rails'
+gem 'simple_form'
+gem 'country_select'
